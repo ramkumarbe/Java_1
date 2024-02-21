@@ -1,0 +1,4 @@
+FlightNumber,FlightName,ArrivalTime,DepartureTime,TotalSeats,Fare,Routes
+2347,Kovai Express,5,23.00 ,10,570,Chennai,Bangalure,Hydrabad,Ahamadabad,Mumbai
+2345,Kolkata Express,11,1,10,430,Chennai,Bangalure,Hydrabad,Kolkatta
+2346,Delhi Airways,5,23,10,530,Chennai,Bangalure,Hydrabad,Kolkatta,Delhi
