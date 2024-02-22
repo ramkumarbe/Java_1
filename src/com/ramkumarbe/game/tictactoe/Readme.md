@@ -25,3 +25,8 @@ This is a simple implementation of the TicTacToe game in Java. The game allows a
 - Add a graphical user interface (GUI) for a more interactive playing experience.
 - Implement different difficulty levels for the computer player.
 - Allow players to choose their marks (X or O) at the start of the game.
+
+## Gameplay Video
+
+https://github.com/ramkumarbe/Java_1/assets/138219016/8c775c04-f9c8-4df1-a3dd-0a2eb57d9ea3
+
